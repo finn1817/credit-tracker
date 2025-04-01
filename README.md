@@ -54,12 +54,11 @@ python install.py
 
 <br>
 <br>
-
 <br>
-___
-This will install everything needed and make a desktop shortcut to open this app
-___
-
-
+# This will install everything needed and make a desktop shortcut to open this app
 <br>
-- All data added gets automatically saved locally so you won't have issues later on!
+## All data added gets automatically saved locally so you won't have issues later on!
+
+
+
+![appCoverPage](https://github.com/user-attachments/assets/c2ba8ddc-897b-4ef3-bebc-9703fbacd9d8)
