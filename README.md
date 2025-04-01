@@ -28,6 +28,7 @@ git clone https://github.com/finn1817/credit-tracker.git
 # or if that gives you any issues:
 git clone https://github.com/finn1817/credit-tracker
 ```
+<br>
 
 step 2
 <br>
@@ -36,3 +37,20 @@ step 2
 ```
 cd credit-tracker
 ```
+<br>
+
+step 3
+<br>
+run the install script
+<br>
+```
+python install.py
+```
+<br>
+<br>
+---------------------------------------------------
+<br>
+This will install everything needed and make a desktop shortcut to open this app
+===================================================================================
+<br>
+- All data added gets automatically saved locally so you won't have issues later on!
