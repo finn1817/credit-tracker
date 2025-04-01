@@ -13,3 +13,26 @@ Requirements:
 - Windows operating system
 
 For support or questions, reach out...
+
+
+-----------------------------------------
+
+How to Use
+===========
+Step 1
+<br>
+```  
+# Clone the repository
+git clone https://github.com/finn1817/credit-tracker.git
+
+# or if that gives you any issues:
+git clone https://github.com/finn1817/credit-tracker
+```
+
+step 2
+<br>
+- Open the file location (wherever you downloaded this)
+<br>
+```
+cd credit-tracker
+```
