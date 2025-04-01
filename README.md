@@ -48,9 +48,10 @@ python install.py
 ```
 <br>
 <br>
----------------------------------------------------
+-----------------------------------------
 <br>
 This will install everything needed and make a desktop shortcut to open this app
-===================================================================================
+-----------------------------------------
+
 <br>
 - All data added gets automatically saved locally so you won't have issues later on!
