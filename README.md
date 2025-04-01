@@ -56,7 +56,7 @@ python install.py
 <br>
 
 <br>
-**This will install everything needed and make a desktop shortcut to open this app**
+*** This will install everything needed and make a desktop shortcut to open this app ***
 
 
 <br>
