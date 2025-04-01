@@ -60,7 +60,7 @@ python install.py
 
 <br>
 
-All data added gets automatically saved locally so you won't have issues later on!
+## All data added gets automatically saved locally so you won't have issues later on!
 
 
 
